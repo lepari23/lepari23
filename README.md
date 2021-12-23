@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lepari23
-- 👀 I’m interested in maths, music, automation and hardware integration.
-- 🌱 I’m currently learning C, Python, Java and Assembly.
+- 👀 I’m interested in mathematics, logic, high-level automata, music, and hardware integration.
+- 🌱 I’m always trying to improve my C, Python,Java and Perl development.
 - 📫 Reach me at: 1le2pari3@gmail.com
 
 <!---
