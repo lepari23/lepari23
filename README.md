@@ -1,5 +1,5 @@
 # lepari23
-## Backend / Full-Stack Engineer · Western Cape, South Africa · **[1le2pari3@gmail.com](mailto:1le2pari3@gmail.com)** · **[CV PDF](https://github.com/lepari23/CV/blob/main/lepari23%20CV.md)**
+## Backend / Full-Stack Engineer · Western Cape, ZA · **[1le2pari3@gmail.com](mailto:1le2pari3@gmail.com)** · **[CV](https://github.com/lepari23/lepari23/blob/bd10836d841c6f94e05e1535c54f137c4e783150/CV/lepari23%20CV.md)**
 
 ### 🛠 What've I done  
 | Tech | Recent projects |
